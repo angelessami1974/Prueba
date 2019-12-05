@@ -1,7 +1,7 @@
 ---
-title: <img src="plantilla/INEGI_b.png" width="20%" style="background:none; border:none" align="left"/> </br> <b> <p align="right"> Encuesta sobre Residuos Alimenticios y Materia Orgánica (ERAMO)</p> </b> </br>
-author: <p align="right"> **Prueba Piloto 01** </p>
-date: <p align = "right"> Noviembre de 2019 </p> 
+title: "ERAMO"
+author: Prueba Piloto
+date: Noviembre
 output: ioslides_presentation
 ---
 
@@ -31,14 +31,8 @@ output: ioslides_presentation
 
 - **Objetivo 3** Probar las herramientas tecnológicas que incluyen la ejecución de app de los entrevistadores, el funcionamiento de los dispositivos móviles y sus características, la comunicación con la nube para envío y recepción de entrevistas, así como la carga y descarga de las bases de datos para el aseguramiento de la información obtenida en campo.
 
-- **Objetivo 4** Probar los mecanismos de supervisión física y virtual para asegurar la obtención, resguardo y procesamiento de los datos obtenidos de las entrevistas
+- **Objetivo 4** Probar los mecanismos de supervisión física y virtual para asegurar la obtención, resguardo y procesamiento de los datos obtenidos de las entrevistas.
 
-
----
-
-```{r, cars, fig.cap="A scatterplot.", echo=FALSE}
-plot(cars)
-```
 
 ## Going to sleep
 

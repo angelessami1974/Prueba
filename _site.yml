@@ -1,0 +1,16 @@
+name: presentacion_prueba
+output_dir: '.'
+navbar:
+  title: "ERAMO" 
+  type: inverse
+  right:
+  - text: "ERAMO"
+    href: index.html
+
+output:
+  revealjs::revealjs_presentation:
+   self_contained: false
+   theme: simple
+   highlight: tango
+   slideNumber: true
+   previewLinks: true
