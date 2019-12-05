@@ -1,30 +1,38 @@
 ---
-title: "Habits"
-author: "JohnDoe"
-date: "4 de diciembre de 2019"
+title: <img src="plantilla/INEGI_b.png" width="20%" style="background:none; border:none" align="left"/> </br> <b> <p align="right"> Encuesta sobre Residuos Alimenticios y Materia Orgánica (ERAMO)</p> </b> </br>
+author: <p align="right"> **Prueba Piloto 01** </p>
+date: <p align = "right"> Noviembre de 2019 </p> 
 output: ioslides_presentation
 ---
 
 
 
-# In the morning
+# **Sinópsis**
 
-## Getting up
+## **¿En qué consistió la prueba piloto 2019 de la ERAMO?**
 
 - Turn off alarm
 - Get out of bed
 
-## Breakfast
+## **Principales Acciones**
 
 - Eat eggs
 - Drink coffee
 
-# In the evening
+# **Objetivos de la prueba**
 
-## Dinner
+## **Objetivos**
 
-- Eat spaghetti
-- Drink wine
+- **Objetivo 1** Probar el contenido temático y la redacción de las preguntas del instrumento de captación para asegurar que el informante proporcione datos de calidad.
+
+- **Objetivo 2** Probar la estrategia operativa que incluye desde los trámites administrativos, la determinación de la muestra, el levantamiento, captación y procesamiento de la información para asegurar que los procesos de obtención de la información sean los adecuados.
+
+## **Objetivos**
+
+- **Objetivo 3** Probar las herramientas tecnológicas que incluyen la ejecución de app de los entrevistadores, el funcionamiento de los dispositivos móviles y sus características, la comunicación con la nube para envío y recepción de entrevistas, así como la carga y descarga de las bases de datos para el aseguramiento de la información obtenida en campo.
+
+- **Objetivo 4** Probar los mecanismos de supervisión física y virtual para asegurar la obtención, resguardo y procesamiento de los datos obtenidos de las entrevistas
+
 
 ---
 
